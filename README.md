@@ -20,8 +20,8 @@ churn, used as the target. 1 if the client has left the bank during some period 
 
 Created a Measure in Power Query Editor to find the Churn Rate by using a DAX formula -       
 #### Churn Rate = SUM('Bank Customer Churn Prediction'[churn])/COUNT('Bank Customer Churn Prediction'[customer_id])                                       
-Changed Formamt to Percentage                                   
-Created Crad Visual to show the Churn Rate, Total Customers, Active Customers & Churn Customers                              
+Changed Format to Percentage                                   
+Created Card Visual to show the Churn Rate, Total Customers, Active Customers & Churn Customers                              
 Crated a Pie Chart to show the Gender Distribution                               
 Created Line Chart showing Churn Rate for different tenures                                   
 Created a Bar chart to analyse the churn Rate based on Products Numbers                              
