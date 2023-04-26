@@ -27,10 +27,10 @@ Created Line Chart showing Churt Rate for different tenures
 Created a Bar chart to analyse the churn Rate based on Products Numbers                              
 Inserted a slicer for different countries     
 
-## Insights 
-Churn Rate for ABC Multistate bank is 20.4 % which is very high.
-Churn Rate for Germany is Highest at 32.4 % 
-Female(25.1 %) have a higer churt rate compared to Male customers (16.5%)
-Churn Rate is highest when tenure is very less takes a dip when the tenure is between 2 to 7 and rises again.
-Produt number 4 has 100% churn rate followed by Product number 3 (82.7%)
-Product 2 has lowest churn rate (7.66%) followed by Product 1 (27.7%)
+## Insights                 
+Churn Rate for ABC Multistate bank is 20.4 % which is very high.                    
+Churn Rate for Germany is Highest at 32.4 %                              
+Female(25.1 %) have a higer churt rate compared to Male customers (16.5%)                           
+Churn Rate is highest when tenure is very less takes a dip when the tenure is between 2 to 7 and rises again.                                 
+Produt number 4 has 100% churn rate followed by Product number 3 (82.7%)                              
+Product 2 has lowest churn rate (7.66%) followed by Product 1 (27.7%)                                
