@@ -23,7 +23,7 @@ Created a Measure in Power Query Editor to find the Churn Rate by using a DAX fo
 Changed Formamt to Percentage                                   
 Created Crad Visual to show the Churn Rate, Total Customers, Active Customers & Churn Customers                              
 Crated a Pie Chart to show the Gender Distribution                               
-Created Line Chart showing Churt Rate for different tenures                                   
+Created Line Chart showing Churn Rate for different tenures                                   
 Created a Bar chart to analyse the churn Rate based on Products Numbers                              
 Inserted a slicer for different countries     
 
